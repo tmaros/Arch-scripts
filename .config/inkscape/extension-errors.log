@@ -1,0 +1,45 @@
+Razširitev "XFIG Input" se ni uspela naložiti zaradi nezadoščena odvisnost.
+Odvisnost:
+  vrsta: executable
+  položaj: Pot
+  niz: fig2dev
+
+Razširitev "DXF Output" se ni uspela naložiti zaradi nezadoščena odvisnost.
+Odvisnost:
+  vrsta: executable
+  položaj: Pot
+  niz: pstoedit
+  opis: Nameščen mora biti pstoedit; oglejte si http://www.pstoedit.net/pstoedit
+
+Razširitev "LaTeX" se ni uspela naložiti zaradi nezadoščena odvisnost.
+Odvisnost:
+  vrsta: executable
+  položaj: Pot
+  niz: latex
+
+Razširitev "LaTeX" se ni uspela naložiti zaradi nezadoščena odvisnost.
+Odvisnost:
+  vrsta: executable
+  položaj: Pot
+  niz: dvips
+
+Razširitev "LaTeX" se ni uspela naložiti zaradi nezadoščena odvisnost.
+Odvisnost:
+  vrsta: executable
+  položaj: Pot
+  niz: pstoedit
+
+Razširitev "Sketch Input" se ni uspela naložiti zaradi nezadoščena odvisnost.
+Odvisnost:
+  vrsta: executable
+  položaj: Pot
+  niz: skconvert
+
+Razširitev "Dia Input" se ni uspela naložiti zaradi nezadoščena odvisnost.
+Odvisnost:
+  vrsta: executable
+  položaj: Pot
+  niz: dia
+  opis: Da bi lahko uvozili datoteke Dia, morate imeti nameščen program Dia.  Najdete ga na naslovu http://live.gnome.org/Dia/
+
+Razširitev "Win32 Vector Print" se ni uspela naložiti zaradi the extension is designed for Windows only.  To se zgodi zaradi napačne datoteke .inx za to razširitev. To se je lahko zgodilo zaradi neuspešne namestitve Inkscape-a.

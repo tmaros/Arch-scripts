@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Temps.app
+Comment=Temps.appstartup script
+Exec=/opt/Temps/Temps.app --hidden
+StartupNotify=false
+Terminal=false
